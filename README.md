@@ -1,13 +1,14 @@
-- 👋 Oi, eu sou Eduardo
-- 💼 Trabalho como Analista de TI Pleno
-- 🚀 +13 anos na área de Tecnologia
-- 🎓 Cursando Gestão em T.I (8/25)
-- 🥇 Certificações em Scrum, Kanban, LGPD e Apple
-- 📘 +150 cursos e certificados
-- 👀 Estou interessado em...
-- 🌱 Estou aprendendo Infraestrutura, DevOps, Cloud, Engenharia de Software
-- 💞️ Estou procurando colaborar em...
-- 📫 Como chegar até mim +55 (11) 97717-1676 / eduardo.arraes@outlook.com
+- 👋 Oi, menu nome é Eduardo;
+- 💼 Trabalho como Analista de Desenvolvimento de Sistemas;
+- 📢 Sou Criador de Conteúdo;
+- 💙 Sou apaixonado pela área de T.I;
+- 🏢 Tenho Experiência nos setores de CallCenter, Hospitalar, Joalheria, Cinema, Fintech e Supermecado;
+- 🚀 Tenho 13 anos de experiência na área de Tecnologia da Informação (TI);
+- 🎓 Estou cursando Gestão em T.I (14/25);
+- 🥇 Tenho 4 certificações sendo Scrum, Kanban, LGPD e Apple;
+- 📘 Tenho 165 cursos com certificados;
+- 🌱 Estou estudando Infraestrutura de TI, DevOps, Cloud, Engenharia de Software, Cibersegurança;
+- 📫 Meus contatos são +55 (11) 97717-1676 / eduardo.arraes@outlook.com;
 
 <!---
 odraude2104/odraude2104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
